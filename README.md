@@ -22,4 +22,6 @@ Click on the desired test file (api_response_time_spec.js) to run the API respon
 Observe the test execution and review the console output for information on slow API responses.
 
 **Note**
-The tests utilize the jsonplaceholder.typicode.com API as the testing endpoint. You can modify the test data, request bodies, or endpoints to suit your specific use case.
+The tests utilize the jsonplaceholder.typicode.com API as the testing endpoint. You can modify the test data, request bodies, or endpoints to suit your specific use case. 
+
+**Explore my GitHub repository at https://github.com/Kashif-078/API_GetRequestsCypress if you need to test APIs that involve authentication requirements.**
